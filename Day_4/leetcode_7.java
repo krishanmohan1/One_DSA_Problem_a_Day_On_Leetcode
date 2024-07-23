@@ -24,7 +24,7 @@ class Solution {
 
 
 
-public class leetcode_2 {
+public class leetcode_7 {
     public static void main(String[] args) {
 
     }
